@@ -1,0 +1,12 @@
+# Table of contents for book.pdf  (UTF-8, one entry per line)
+# format:  level|page|title      level 1 = heading, 2 = sub heading, 3 = sub-sub heading
+# page = PDF page number (the number shown in the page box)
+# Lines starting with # are ignored.
+1|1|سرورق
+1|2|باب اول
+2|3|پہلی فصل
+2|5|دوسری فصل
+1|7|باب دوم
+2|8|فصل اول
+3|9|ذیلی عنوان
+2|10|فصل دوم
